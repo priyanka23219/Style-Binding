@@ -1,4 +1,5 @@
 # Stylebinding
+![stylebinding output](https://user-images.githubusercontent.com/75573132/115555417-19d02980-a2cd-11eb-91f9-a1fccb5f0358.JPG)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
